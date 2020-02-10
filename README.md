@@ -10,3 +10,5 @@ Compiled apk: [link](https://github.com/lkloon123/web_links/releases)
 - run command `flutter build apk` to build the apk
 
 compiled apk will be at `build/app/outputs/apk/release/app-release.apk`
+
+ps: I'm able to run on ios simulator using macbook but i dont have an valid apple id to build.
